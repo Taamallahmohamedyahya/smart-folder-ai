@@ -27,4 +27,4 @@ The app analyzes file names and extensions, applies smart rules to classify them
 git clone https://github.com/Taamallahmohamedyahya/smart-folder-ai.git
 cd smart-folder-ai
 python app.py
-![Preview](screenshots/Screenshot.png)
+![Preview](Screenshots/Screenshot.png)
