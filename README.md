@@ -1,6 +1,11 @@
 # Smart Folder AI
 
-Smart Folder AI is a Python desktop app that organizes messy folders using smart labeling, duplicate detection, and intelligent filename suggestions.
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/python-3.9%2B-yellowgreen)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-blueviolet)
+![AI](https://img.shields.io/badge/AI-Smart%20Labeling-orange)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ## Features
 
